@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.function.Predicate;
 
-public class Main {
+public class Ma {
 
     public static void main(String[] args) {
 

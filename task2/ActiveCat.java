@@ -25,7 +25,7 @@ public final class ActiveCat {
     }
     
     public void doAction() {
-        System.out.printf("Я %s. %s%n", name, action.perform());
+        System.out.printf("Я %s. %s%n", name, action.trim());
     }
 
     /*****/
